@@ -327,7 +327,7 @@ main, .container {
 
     video {
         aspect-ratio: 16/9;
-        width: clamp(1250px, 5vw, 2000px);
+        width: clamp(250px, 5vw, 1250px);
     }
 }
 
